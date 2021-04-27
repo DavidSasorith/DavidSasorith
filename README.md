@@ -48,6 +48,7 @@
 
 <div align="center">
   
-[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/davidsasorith/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damiensasorith@gmail.com)](damiensasorith@gmail.com)&nbsp; &nbsp; 
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/davidsasorith/)&nbsp; &nbsp; 
+[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damiensasorith@gmail.com)](mailto:damiensasorith@gmail.com)&nbsp; &nbsp; 
 
 </div>
