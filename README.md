@@ -6,7 +6,6 @@
 
 - 💻 I’m currently working on ;
 - 🌱 I’m currently learning ReactNative and MongoDB; 
-- 🤔 I’m looking for help;
 - 💬 Ask me about anything! ;
 - 🎮 I like gaming and looking at Netflix;
 - 👯‍♀️  I like to discuss and code with others to improve more.
